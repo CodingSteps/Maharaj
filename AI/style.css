@@ -135,12 +135,12 @@ header {
   
   padding: 3px;
   width: 80 %;
-  height: 58 px;
+ 
 }
 .sector {
   display: inline-block;
   width: 13%;
-  height: 30px;
+
   margin: 5%;
   margin-top: 20px;
   margin-bottom: 20px;
