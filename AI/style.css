@@ -176,7 +176,7 @@ header {
 	  font-size: 12px;	
 	}
 	
-	.sector,.col, .col2{
+	.sector,.col,.col2{
 	  width:80%;
           display:block;	
 	  margin:auto;
