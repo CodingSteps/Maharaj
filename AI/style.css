@@ -182,5 +182,11 @@ header {
 	  margin:auto;
 	  margin-top:20px;	
 	}
+	
+	.sector img {
+    		display: block;
+  		 width: 40%;
+    		margin: auto;
+	}	
 
 } 
