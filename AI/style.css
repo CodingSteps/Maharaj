@@ -194,7 +194,7 @@ header {
 @media screen and (max-width: 768px)
 {
 
-	.col2{
+	.col2,.sector,.col{
 	   width:40%;
 	   margin:20px;	
 	}
