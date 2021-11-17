@@ -86,6 +86,7 @@ header {
 
 .title {
   text-align: center;
+  font-size:1vw;
 }
 
 .col img {
@@ -97,7 +98,7 @@ header {
 }
 .container2 {
   width: 70%;
-  height: 100px;
+ 
   margin: auto;
 }
 
@@ -110,8 +111,8 @@ header {
 
 .col2 {
   display: inline-block;
-  width: 23%;
-  height: 30px;
+  width: 20%;
+ 
   margin: 5%;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -126,14 +127,14 @@ header {
 
 .container3 {
   width: 70%;
-  height: 100px;
+  
   margin: auto;
 }
 
 .sector img {
   
   padding: 3px;
-  width: 40 %;
+  width: 80 %;
   height: 58 px;
 }
 .sector {
