@@ -175,5 +175,10 @@ header {
 	{
 	  font-size: 12px;	
 	}
+	
+	.sector,.col{
+	  width:100%;
+          display:block;		
+	}
 
 } 
