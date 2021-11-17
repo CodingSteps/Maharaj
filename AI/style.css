@@ -177,8 +177,10 @@ header {
 	}
 	
 	.sector,.col{
-	  width:100%;
-          display:block;		
+	  width:80%;
+          display:block;	
+	  margin:auto;
+	  margin-top:20px;	
 	}
 
 } 
