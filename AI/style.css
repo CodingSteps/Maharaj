@@ -190,3 +190,14 @@ header {
 	}	
 
 } 
+
+@media screen and (max-width: 768px)
+{
+
+	.col2{
+	   width:40%;
+	   margin:20px;	
+	}
+
+} 
+
