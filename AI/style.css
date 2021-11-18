@@ -86,7 +86,7 @@ header {
 
 .title {
   text-align: center;
-  font-size:15px;
+  font-size: 12px;
 }
 
 .col img {
@@ -98,7 +98,7 @@ header {
 }
 .container2 {
   width: 70%;
- 
+
   margin: auto;
 }
 
@@ -112,7 +112,7 @@ header {
 .col2 {
   display: inline-block;
   width: 20%;
- 
+
   margin: 5%;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -127,15 +127,13 @@ header {
 
 .container3 {
   width: 70%;
-  
+
   margin: auto;
 }
 
 .sector img {
-  
   padding: 10px;
   width: 80%;
- 
 }
 .sector {
   display: inline-block;
@@ -168,37 +166,32 @@ header {
   color: white;
 }
 
-@media screen and (max-width: 576px)
-{
+@media screen and (max-width: 576px) {
+  .title {
+    font-size: 12px;
+  }
 
-	.title
-	{
-	  font-size: 12px;	
-	}
-	
-	.sector,.col,.col2{
-	  width:80%;
-          display:block;	
-	  margin:auto;
-	  margin-top:20px;	
-	}
-	
-	.sector img {
-    		display: block;
-  		 width: 40%;
-    		margin: auto;
-	}	
+  .sector,
+  .col,
+  .col2 {
+    width: 80%;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+  }
 
-} 
+  .sector img {
+    display: block;
+    width: 40%;
+    margin: auto;
+  }
+}
 
-@media screen and (max-width: 768px) and (min-width: 576px) 
-{
-
-	.col2,.sector,.col
-	{
-	   width:40%;
-	   margin:20px;	
-	}
-
-} 
-
+@media screen and (max-width: 768px) and (min-width: 576px) {
+  .col2,
+  .sector,
+  .col {
+    width: 40%;
+    margin: 20px;
+  }
+}
